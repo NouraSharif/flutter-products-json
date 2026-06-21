@@ -1,16 +1,26 @@
-# taskelevate
+# Flutter Products App 🛍️
 
-A new Flutter project.
+A simple Flutter application that fetches products from a REST API and displays them in a clean and responsive grid UI.
 
-## Getting Started
+## 📱 Project Overview
 
-This project is a starting point for a Flutter application.
+This project was built as part of a Flutter task.  
+It demonstrates fetching data from an external API and displaying it using a structured UI with reusable widgets.
 
-A few resources to get you started if this is your first Flutter project:
+The app uses the following API:
+https://fakestoreapi.com/products
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Fetch products from REST API
+- Display products in Grid View
+- Product image, title, price, and rating
+- Clean and reusable UI components
+- GetX state management
+- Responsive product cards UI
+
+ ## 📸 Screenshots
+
+![Product Screen](screenshots/product_screen.png)
