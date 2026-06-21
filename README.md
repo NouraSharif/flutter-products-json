@@ -23,4 +23,4 @@ https://fakestoreapi.com/products
 
  ## 📸 Screenshots
 
-![Product Screen](screenshots/product_screen.png)
+![Product Screen](screenshots/screenshot.png)
